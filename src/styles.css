@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+
+#title {
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}
+.gold {
+  color: #bdb76b;
+  font-weight: bold;
+}
