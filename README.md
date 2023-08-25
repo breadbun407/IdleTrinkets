@@ -1,0 +1,2 @@
+# IdleTrinkets
+Created with CodeSandbox
